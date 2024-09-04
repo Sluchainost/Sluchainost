@@ -6,7 +6,9 @@
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sluchainost&hide_title=true&card_width=495px&line_height=20&theme=rose&show_icons=true&locale=en" alt="Sluchainost" /></p>
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sluchainost&theme=rose" alt="Sluchainost" /></p>
 </details>
+<details>
+<summary><b>⚡My project repository</b></summary>
   <a href="https://github.com/Sluchainost/My_Telegram_Bots">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sluchainost&repo=My_Telegram_Bots&theme=rose&show_owner=True" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sluchainost&repo=My_Telegram_Bots&theme=ambient_gradient&show_owner=True" />
 </a>
- 
+</details>
