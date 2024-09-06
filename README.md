@@ -1,15 +1,21 @@
 Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =
 
-.......
+Ready to bring my skills to new challenges. Driven by innovation and excellence in Python backend development.
 
-* 🌍  I'm based in [Crimean Peninsula](https://www.google.com/maps/place/%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2/data=!4m2!3m1!1s0x40eac2a37171b3f7:0x2a6f09e02affbaeb?sa=X&ved=1t:242&ictx=111) 🏝
+* 🌍  I'm based in [Crimean Peninsula](https://www.google.com/maps/place/%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2/data=!4m2!3m1!1s0x40eac2a37171b3f7:0x2a6f09e02affbaeb?sa=X&ved=1t:242&ictx=111) 🏝
 * 🖥️  See my portfolio at [Coming soon](http://...)
-* ✉️  You can contact me at [Telegram](https://t.me/LID6393)
-* 🚀  I'm currently working on [](http://...)
-* 🧠  I'm learning ...
-* 🤝  I'm open to collaborating on interesting backend projects
-* ⚡  ..
+* ✉️  You can contact me at [Telegram](https://t.me/LID6393)
+* 🚀  I'm currently working on [GitHub project](https://sluchainost.github.io/My_Telegram_Bots/) - Building innovative Telegram bots using Python and aiogram
+* 🧠  I'm learning cool technologies and tools that will help improve the quality of my code
+* 🤝  I'm open to collaborating on interesting backend projects
+* 🏆  Achievements: Successfully developed and deployed a scalable API for a local startup
+* 🐱  Languages i speak: Russian, Ukrainian, English, Python
+* ⚡  Favorite Quote 😄
+  > "In Python backend, simplicity is the ultimate sophistication."  
+  > — *ChatGPT, inspired by Leonardo da Vinci*
+
+### You can find me on <a href="https://www.linkedin.com/in/lenur-ismailov/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/linkedin-icon.svg" width="30" height="30" alt="Python" /></a> <a href="https://leetcode.com/u/Sluchainost/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/leetcode-icon.svg" width="30" height="30" alt="Python" /></a>
 
 <details>
 <summary><b>🛠️ Technologies & Tools</b></summary>
