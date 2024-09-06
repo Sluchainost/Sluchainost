@@ -4,9 +4,10 @@ Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-078594
 .......
 
 * 🌍  I'm based in [Crimean Peninsula](https://www.google.com/maps/place/%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2/data=!4m2!3m1!1s0x40eac2a37171b3f7:0x2a6f09e02affbaeb?sa=X&ved=1t:242&ictx=111) 🏝
+* 🖥️  See my portfolio at [Coming soon](http://...)
 * ✉️  You can contact me at [Telegram](https://t.me/LID6393)
-* 🚀  ..
-* 🧠  ..
+* 🚀  I'm currently working on [](http://...)
+* 🧠  I'm learning ...
 * 🤝  I'm open to collaborating on interesting backend projects
 * ⚡  ..
 
@@ -19,9 +20,9 @@ Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-078594
 |**Experienced**|
 |<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://aiogram.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/aiogram-icon.svg" width="36" height="36" alt="Aiogram" /></a> <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/redis-icon.svg" width="36" height="36" alt="Aiogram" /></a>|
 |**Explore & Use**|
-|<a href="https://docs.nginx.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/nginx-icon.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>|
+|<a href="https://docs.nginx.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/nginx-icon.svg" width="36" height="36" alt="Nginx" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/sqlalchemy-icon.svg" width="36" height="36" alt="SQLAlchemy" /></a> <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/apache-icon.svg" width="36" height="36" alt="Apache" /></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/django-icon.svg" width="36" height="36" alt="Django" /></a> <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/pytest-icon.svg" width="36" height="36" alt="pytest" /></a>|
 |**Tools**|
-|<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/markdown-icon.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/openai-icon.svg" width="36" height="36" alt="VS Code" /></a>|
+|<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/markdown-icon.svg" width="36" height="36" alt="Markdown" /></a> <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/openai-icon.svg" width="36" height="36" alt="OpenAI" /></a>|
 </details>
 <details>
 <summary><b>🌟My GitHub Stats</b></summary>
@@ -31,7 +32,7 @@ Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-078594
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sluchainost&theme=rose" alt="Sluchainost" /></p>
 </details>
 <details>
-<summary><b>⚡My project repository</b></summary>
+<summary><b>✨My project repository</b></summary>
   <a href="https://github.com/Sluchainost/My_Telegram_Bots">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sluchainost&repo=My_Telegram_Bots&theme=ambient_gradient&show_owner=True" />
 </a>
