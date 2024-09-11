@@ -15,7 +15,7 @@ Ready to bring my skills to new challenges. Driven by innovation and excellence 
   > "In Python backend, simplicity is the ultimate sophistication."  
   > — *ChatGPT, inspired by Leonardo da Vinci*
 
-### You can find me on <a href="https://www.linkedin.com/in/lenur-ismailov/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/linkedin-icon.svg" width="30" height="30" alt="Python" /></a> <a href="https://leetcode.com/u/Sluchainost/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/leetcode-icon.svg" width="30" height="30" alt="Python" /></a>
+### You can find me on <a href="https://www.linkedin.com/in/lenur-ismailov/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/linkedin-icon.svg" width="20" height="20" alt="Linkedin" /></a> <a href="https://leetcode.com/u/Sluchainost/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/leetcode-icon.svg" width="20" height="20" alt="LeetCode" /></a> <a href="https://stepik.org/users/721221222/profile" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/stepik-icon.svg" width="20" height="20" alt="Stepik" /></a>
 
 <details>
 <summary><b>🛠️ Technologies & Tools</b></summary>
