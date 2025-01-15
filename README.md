@@ -35,7 +35,7 @@ Ready to bring my skills to new challenges. Driven by innovation and excellence 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Sluchainost&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS"></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sluchainost&theme=rose&show_icons=true&locale=en&layout=pie&size_weight=0.5&count_weight=0.5" alt="Sluchainost" /></p>
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sluchainost&hide_title=true&card_width=495px&line_height=20&theme=rose&show_icons=true&locale=en" alt="Sluchainost" /></p>
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sluchainost&theme=rose" alt="Sluchainost" /></p>
+<p align="right"><img align="center" src="https://github-readme-streak-stats-chi-seven.vercel.app?user=Sluchainost&theme=rose" alt="GitHub Streak" /></p>
 </details>
 <details>
 <summary><b>✨My project repository</b></summary>
