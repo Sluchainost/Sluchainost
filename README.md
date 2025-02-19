@@ -17,8 +17,8 @@ Ready to bring my skills to new challenges. Driven by innovation and excellence 
 
 ### You can find me on <a href="https://www.linkedin.com/in/lenur-ismailov/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/linkedin-icon.svg" width="20" height="20" alt="Linkedin" /></a> <a href="https://leetcode.com/u/Sluchainost/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/leetcode-icon.svg" width="20" height="20" alt="LeetCode" /></a> <a href="https://stepik.org/users/721221222/profile" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/stepik-icon.svg" width="20" height="20" alt="Stepik" /></a>
 
-<details>
-<summary><b>🛠️ Technologies & Tools</b></summary>
+<details open>
+<summary><h2>🛠️ Technologies & Tools</h2></summary>
 
 |Main|
 |:-:|
@@ -30,16 +30,19 @@ Ready to bring my skills to new challenges. Driven by innovation and excellence 
 |**Tools**|
 |<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/markdown-icon.svg" width="36" height="36" alt="Markdown" /></a> <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Sluchainost/Sluchainost/blob/main/imgs/openai-icon.svg" width="36" height="36" alt="OpenAI" /></a>|
 </details>
-<details>
-<summary><b>🌟My GitHub Stats</b></summary>
+
+<details open>
+<summary><h2>🌟My GitHub Stats</h2></summary>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Sluchainost&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS"></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sluchainost&theme=rose&show_icons=true&locale=en&layout=pie&size_weight=0.5&count_weight=0.5" alt="Sluchainost" /></p>
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sluchainost&hide_title=true&card_width=495px&line_height=20&theme=rose&show_icons=true&locale=en" alt="Sluchainost" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sluchainost&hide_title=true&card_width=495px&line_height=24&theme=rose&show_icons=true&locale=en" alt="Sluchainost" /></p>
 <p align="right"><img align="center" src="https://github-readme-streak-stats-delta-ten.vercel.app?user=Sluchainost&theme=rose" alt="GitHub Streak" /></p>
 </details>
-<details>
-<summary><b>✨My project repository</b></summary>
+
+<details open>
+<summary><h2>✨My project repository</h2></summary>
+
   <a href="https://github.com/Sluchainost/My_Telegram_Bots">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sluchainost&repo=My_Telegram_Bots&theme=ambient_gradient&show_owner=True" />
-</a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sluchainost&repo=My_Telegram_Bots&theme=ambient_gradient&show_owner=True" /></a>
 </details>
