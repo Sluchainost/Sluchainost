@@ -3,7 +3,6 @@ Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 Ready to bring my skills to new challenges. Driven by innovation and excellence in Python backend development.
 
-* 🌍  I'm based in [Crimean Peninsula](https://www.google.com/maps/place/%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2/data=!4m2!3m1!1s0x40eac2a37171b3f7:0x2a6f09e02affbaeb?sa=X&ved=1t:242&ictx=111) 🏝
 * 🖥️  See my portfolio at [Coming soon](http://...)
 * ✉️  You can contact me at [Telegram](https://t.me/LID6393) | [Email](mailto:aksberry77@gmail.com)
 * 🚀  I'm currently working on [GitHub project](https://sluchainost.github.io/My_Telegram_Bots/) - Building innovative Telegram bots using Python and aiogram
